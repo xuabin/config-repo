@@ -2,6 +2,6 @@ info:
   profile: prod
   
 name: Paul
-words: 'My world'
+words: '我的世界'
 
 food: '{cipher}1485e0cbd4357ee089312704d52a49ab6d095190bfd54e28a63d539a9bdb200c'
